@@ -1,0 +1,6 @@
+{
+    "discord_bot_token": "YOUR-TOKEN",
+    "hackcheck_api_key": "YOUR-KEY",
+    "webhook_url": "DISCORD-WEBHOOK-FOR-LOGGING"
+}
+  
