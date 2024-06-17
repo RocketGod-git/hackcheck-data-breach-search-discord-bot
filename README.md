@@ -27,6 +27,7 @@ Before running the bot, install the necessary Python packages directly using pip
 ```bash
 cd hackcheck-data-breach-search-discord-bot
 pip install discord aiohttp aiolimiter reportlab
+```
 
 ## Configuration
 
@@ -39,6 +40,7 @@ pip install discord aiohttp aiolimiter reportlab
     "webhook_url": "DISCORD-WEBHOOK-FOR-LOGGING"
 }
 ```
+
 You'll have to figure out Discord Developer Portal. I'm not teaching these things here.
 
 ## Usage
