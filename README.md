@@ -1,6 +1,9 @@
-# HackCheck Data Breach Search Discord Bot
+# HackCheck - Data Breach Search - Discord Bot
 
 HackCheck is a Discord bot that enables users to search for data breaches by various criteria such as email, password, username, and more. This bot utilizes the HackCheck.io API to fetch breach data and presents it interactively within Discord servers.
+
+![1](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot/assets/57732082/9de8caf5-c247-4250-a751-a6351f1bbdf0)
+![2](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot/assets/57732082/e6a5fcf5-a913-46c8-a7c5-afd1d2fc3446)
 
 ## Features
 
@@ -55,3 +58,5 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 ## License
 
 See `LICENSE` for more information.
+
+![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
